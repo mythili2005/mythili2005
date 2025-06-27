@@ -1,0 +1,114 @@
+body {
+  font-family: Georgia;
+  color: #2b2a2a;
+  background: #fff;
+  line-height: 1.6;
+  padding: 40px;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+header {
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 32px;
+  color: #457399;
+  font-weight: bold;
+}
+
+hr {
+  border: 0;
+  border-top: 2px solid #457399;
+  margin: 20px auto 20px auto;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: center;
+  gap: 50px; 
+  flex-wrap: wrap; 
+}
+
+.contact-block {
+  text-align: center;
+}
+
+.contact-block p {
+  margin: 4px 0;
+  font-size: 14px;
+  color:#2b2a2a;
+}
+
+.contact-block a {
+  color: #2b2a2a ;
+  text-decoration: none;
+}
+
+.contact-block a:hover {
+  text-decoration: underline;
+}
+
+
+.summary {
+  margin: 20px 0;
+  font-style: italic;
+  text-align: center;
+
+}
+
+
+h3 {
+  color: #457399;
+  margin-bottom: 10px;
+}
+
+.item {
+  margin-bottom: 15px;
+}
+
+
+.item h4 {
+  margin: 0;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #2b2a2a;
+}
+
+.item p{
+    color: #333;
+    font-size: 16px;
+}
+
+
+a,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+
+.interest-info {
+  display: flex;
+  justify-content:flex-start;
+  gap: 50px;
+  flex-wrap: wrap;
+  margin-top: 15px;
+}
+
+.interest-block {
+  text-align: center;
+}
+
+.interest-block p {
+  margin: 0;
+  font-size: 16px;
+}
+
+
+
