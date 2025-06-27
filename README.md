@@ -1,34 +1,16 @@
 ### 👋 Hey! I'm Mythili Natarajan
 
-💻 **B.Tech Artificial Intelligence & Machine Learning Student**
+[![](https://img.shields.io/badge/Resume%20-%20green?style=flat)](https://mythili2005.github.io/mythili2005/)
+[![](https://img.shields.io/badge/LinkedIn%20-%20gray?style=flat)](https://www.linkedin.com/in/mythili-natarajan-89a380259/)
+[![](https://img.shields.io/badge/Email%20-%20darkblue?style=flat)](mailto:mythilinatarajan159@gmail.com)
 
-🚀 **Skills:** Full-Stack Development, Machine Learning, DSA, OOPs
 
-📈 **Interests:** AI, Backend, Data Analysis
-
----
-
-### 🌟 My Links
-
-[![](https://img.shields.io/badge/Resume-View-green)](https://mythili2005.github.io/mythili2005/)
-[![](https://img.shields.io/badge/LinkedIn-Profile-gray)](https://www.linkedin.com/in/mythili-natarajan-89a380259/)
-[![](https://img.shields.io/badge/Email-Send-darkblue)](mailto:mythilinatarajan159@gmail.com)
-[![](https://img.shields.io/badge/GitHub-github.com/mythili2005-blue)](https://github.com/mythili2005)
-
----
-
-### 📌 Projects
-
-- **[Malaria Detection Using Deep Learning](https://huggingface.co/spaces/mythili18/Malaria_Prediction_using_smear_images)** — AI system for malaria diagnosis.
-- **[Online Payment Fraud Detection](https://app.powerbi.com/groups/me/reports/5dbf55de-5ad6-488f-b0a3-350f7569d75b/621fa3a04bb2006b733b?ctid=fe00887a-19c3-42af-8d5a-e26e1c80ff82&experience=power-bi)** — Dashboard to uncover fraud patterns.
-- **[Background Remover](https://bg-removal-dun.vercel.app/)** — Web app to remove image backgrounds.
-
----
-
-### 📊 GitHub Stats
+### GitHub Overview
 
 ![Mythili's GitHub stats](https://github-readme-stats.vercel.app/api?username=mythili2005&show_icons=true&theme=radical)
 
----
+### LeetCode Stats
 
-✨ _Thank you for visiting!_
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=Mythili_N&theme=dark" width="400"/>
+</a>
