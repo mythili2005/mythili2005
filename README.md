@@ -10,7 +10,5 @@
 ![Mythili's GitHub stats](https://github-readme-stats.vercel.app/api?username=mythili2005&show_icons=true&theme=radical)
 
 ### LeetCode Stats
-
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=Mythili_N&theme=dark" width="400"/>
-</a>
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mythili_N?&font=Montserrat&ext)](https://leetcode.com/Mythili_N/)
