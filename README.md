@@ -7,7 +7,7 @@
 
 ### GitHub Overview
 
-![Mythili's GitHub stats](https://github-readme-stats.vercel.app/api?username=mythili2005&show_icons=true&theme=radical)
+![Mythili's GitHub stats](https://github-readme-stats.vercel.app/api?username=mythili2005&show_icons=true)
 
 ### LeetCode Stats
   
