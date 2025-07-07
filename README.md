@@ -44,9 +44,13 @@ Backend & Deep Learning enthusiast, and passionate about problem solving & autom
 **Data Analysis**  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
+### Projects
 
+- [Online Book Store](https://github.com/mythili2005/Online-Book-Store) - A full-stack web app for browsing, buying, and managing books online. <br> *Tech Stack : MERN Stack, REST API, MongoDB*
 
-[Malaria Detection](https://github.com/mythili2005/Malaria-prediction-using-deep-learning) — CNN model for detecting malaria from cell images.
+- [Malaria Detection](https://github.com/mythili2005/Malaria-prediction-using-deep-learning) - A deep learning project using CNN to detect malaria-infected cells from blood smear images.<br>  *Tech Stack : Python, TensorFlow, Keras*
+
+- [Diabetes Prediction](https://github.com/mythili2005/Diabetes-prediction-using-machine-learning) - A machine learning model to predict diabetes risk based on health data. <br>*Tech Stack : Python, Scikit-Learn, Pandas, NumPy*
 
 
 ### LeetCode Stats
