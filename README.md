@@ -28,7 +28,7 @@ Backend & Deep Learning enthusiast, and passionate about problem solving & autom
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/-Express.js-303030?logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-303030?logo=express&logoColor=white)  
 **Database:**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00618A?logo=mysql&logoColor=white)  
